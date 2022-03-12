@@ -6,10 +6,9 @@
 from __future__ import print_function
 
 from datetime import datetime
-from math import ceil
 
 import bs4
-import MySQLdb as mdb
+import mariadb as mdb
 import requests
 
 
@@ -28,7 +27,7 @@ def obtain_parse_wiki_snp500():
     response = requests.get(
         "http://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
     )
-    soup = bs4.BeautifulSoup(response.text)
+    soup = bs4.BeautifulSoup(response.text, 'lxml')
 
     # This selects the first table, using CSS Selector syntax
     # and then ignores the header row ([1:])
@@ -77,6 +76,7 @@ def insert_snp500_symbols(symbols):
     with con: 
         cur = con.cursor()
         cur.executemany(final_str, symbols)
+        con.commit()
 
 
 if __name__ == "__main__":
