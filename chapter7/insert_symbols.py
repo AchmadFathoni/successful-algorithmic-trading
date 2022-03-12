@@ -40,7 +40,7 @@ def obtain_parse_wiki_snp500():
         tds = symbol.select('td')
         symbols.append(
             (
-                tds[0].select('a')[0].text,  # Ticker
+                tds[0].select('a')[0].text.replace('.', '-'),  # Ticker
                 'stock', 
                 tds[1].select('a')[0].text,  # Name
                 tds[3].text,  # Sector

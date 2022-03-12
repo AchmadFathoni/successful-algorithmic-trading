@@ -9,7 +9,6 @@ import datetime
 import warnings
 
 import mariadb as mdb
-import requests
 
 import yfinance as yf
 
@@ -18,17 +17,15 @@ db_host = 'localhost'
 db_user = 'sec_user'
 db_pass = 'password'
 db_name = 'securities_master'
-con = mdb.connect(db_host, db_user, db_pass, db_name)
 
 
 def obtain_list_of_db_tickers():
     """
     Obtains a list of the ticker symbols in the database.
     """
-    with con: 
+    with mdb.connect(host=db_host, user=db_user, passwd=db_pass, db=db_name) as con: 
         cur = con.cursor()
         cur.execute("SELECT id, ticker FROM symbol")
-        con.commit()
         data = cur.fetchall()
         return [(d[0], d[1]) for d in data]
 
@@ -38,29 +35,15 @@ def get_daily_historic_data_yahoo(
         end_date=datetime.datetime.today().strftime('%Y-%m-%d')
     ):
     """
-    Obtains data from Yahoo Finance returns and a list of tuples.
+    Obtains data from Yahoo Finance returns and a pandas data frame.
 
     ticker: Yahoo Finance ticker symbol, e.g. "GOOG" for Google, Inc.
     start_date: Start date in "YYYY-M-D" format
     end_date: End date in "YYYY-M-D" format
     """
-    # Construct the Yahoo URL with the correct integer query parameters
-    # for start and end dates. Note that some parameters are zero-based!
+    # Fetch history data from Yahoo Finance as return it as panda data frame
     yf_ticker = yf.Ticker(ticker)
-
-    # Try connecting to Yahoo Finance and obtaining the data
-    # On failure, print an error message.
-    try:
-        yf_data = yf_ticker.history(interval="1d",start=start_date,end=end_date) 
-        prices = []
-        for y in yf_data:
-            p = y.strip().split(',')
-            prices.append( 
-                (datetime.datetime.strptime(p[0], '%Y-%m-%d'),
-                p[1], p[2], p[3], p[4], p[6], p[5]) 
-            )
-    except Exception as e:
-        print("Could not download Yahoo data: %s" % e)
+    prices = yf_ticker.history(interval="1d", start=start_date, end=end_date,auto_adjust=False) 
     return prices
 
 
@@ -69,19 +52,18 @@ def insert_daily_data_into_db(
     ):
     """
     Takes a list of tuples of daily data and adds it to the
-    MySQL database. Appends the vendor ID and symbol ID to the data.
+    mariadb database. Appends the vendor ID and symbol ID to the data.
 
-    daily_data: List of tuples of the OHLC data (with 
-    adj_close and volume)
+    daily_data: pandas data frame that contain daily data with date as index
     """
     # Create the time now
     now = datetime.datetime.utcnow()
 
     # Amend the data to include the vendor ID and symbol ID
-    daily_data = [
-        (data_vendor_id, symbol_id, d[0], now, now,
-        d[1], d[2], d[3], d[4], d[5], d[6]) 
-        for d in daily_data
+    db_daily_data = [
+        (data_vendor_id, symbol_id, index.to_pydatetime(), now, now,
+        row["Open"], row["High"], row["Low"], row["Close"], row["Volume"], row["Adj Close"]) 
+        for index, row in daily_data.iterrows()
     ]
 
     # Create the insert strings
@@ -93,9 +75,10 @@ def insert_daily_data_into_db(
         (column_str, insert_str)
 
     # Using the MySQL connection, carry out an INSERT INTO for every symbol
-    with con: 
+    with mdb.connect(host=db_host, user=db_user, passwd=db_pass, db=db_name) as con: 
         cur = con.cursor()
-        cur.executemany(final_str, daily_data)
+        cur.executemany(final_str, db_daily_data)
+        con.commit()
 
 
 if __name__ == "__main__":
