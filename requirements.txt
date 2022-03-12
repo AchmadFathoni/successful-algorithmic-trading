@@ -12,6 +12,7 @@ pytz==2021.3
 requests==2.27.1
 scikit-learn==1.0.2
 scipy==1.8.0
+sqlalchemy==1.4.32
 six==1.16.0
 statsmodels==0.13.2
 yfinance==0.1.70
