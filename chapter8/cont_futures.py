@@ -9,7 +9,7 @@ import datetime
 
 import numpy as np
 import pandas as pd
-import Quandl
+import quandl
 
 
 def futures_rollover_weights(start_date, expiry_dates, contracts, rollover_days=5):
@@ -52,8 +52,8 @@ if __name__ == "__main__":
     # for WTI Crude, traded on NYMEX, from Quandl.com. You will need to 
     # adjust the contracts to reflect your current near/far contracts 
     # depending upon the point at which you read this!
-    wti_near = Quandl.get("OFDP/FUTURE_CLF2014")
-    wti_far = Quandl.get("OFDP/FUTURE_CLG2014")
+    wti_near = quandl.get("OFDP/FUTURE_CLF2014")
+    wti_far = quandl.get("OFDP/FUTURE_CLG2014")
     wti = pd.DataFrame({'CLF2014': wti_near['Settle'],
                         'CLG2014': wti_far['Settle']}, index=wti_far.index)
 
