@@ -3,17 +3,15 @@
 
 # cadf.py
 
+import os
 import datetime
-import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import pandas as pd
-import pandas.io.data as web
+import pandas_datareader.data as web
 import pprint
 import statsmodels.tsa.stattools as ts
-
-from pandas.stats.api import ols
-
+import statsmodels.api as sm
 
 def plot_price_series(df, ts1, ts2):
     months = mdates.MonthLocator()  # every month
@@ -61,25 +59,30 @@ if __name__ == "__main__":
     start = datetime.datetime(2012, 1, 1)
     end = datetime.datetime(2013, 1, 1)
 
-    arex = web.DataReader("AREX", "yahoo", start, end)
+    #Approach Resource Inc is bankrupt and I can't find it on yfinance. Move to Tiingo.
+    arex = web.DataReader("AREXQ", "tiingo", start, end, api_key=os.getenv('TIINGO_API_KEY'))
+    arex = arex.droplevel('symbol')
+    arex = arex.set_index(pd.Index(arex.index.date))
+
     wll = web.DataReader("WLL", "yahoo", start, end)
 
     df = pd.DataFrame(index=arex.index)
-    df["AREX"] = arex["Adj Close"]
+    df["AREXQ"] = arex["adjClose"]
     df["WLL"] = wll["Adj Close"]
+    print(df)
 
     # Plot the two time series
-    plot_price_series(df, "AREX", "WLL")
+    plot_price_series(df, "AREXQ", "WLL")
 
     # Display a scatter plot of the two time series
-    plot_scatter_series(df, "AREX", "WLL")
+    plot_scatter_series(df, "AREXQ", "WLL")
 
     # Calculate optimal hedge ratio "beta"
-    res = ols(y=df['WLL'], x=df["AREX"])
-    beta_hr = res.beta.x
+    res = sm.OLS(df['WLL'], sm.add_constant(df["AREXQ"]), missing='drop').fit()
+    beta_hr = res.params[1]
 
     # Calculate the residuals of the linear combination
-    df["res"] = df["WLL"] - beta_hr*df["AREX"]
+    df["res"] = df["WLL"] - beta_hr*df["AREXQ"]
 
     # Plot the residuals
     plot_residuals(df)
