@@ -11,7 +11,7 @@ import pandas as pd
 
 def create_sharpe_ratio(returns, periods=252):
     """
-    Create the Sharpe ratio for the strategy, based on a 
+    Create the Sharpe ratio for the strategy, based on a
     benchmark of zero (i.e. no risk-free rate information).
 
     Parameters:
@@ -24,7 +24,7 @@ def create_sharpe_ratio(returns, periods=252):
 def create_drawdowns(pnl):
     """
     Calculate the largest peak-to-trough drawdown of the PnL curve
-    as well as the duration of the drawdown. Requires that the 
+    as well as the duration of the drawdown. Requires that the
     pnl_returns is a pandas Series.
 
     Parameters:
@@ -34,14 +34,14 @@ def create_drawdowns(pnl):
     drawdown, duration - Highest peak-to-trough drawdown and duration.
     """
 
-    # Calculate the cumulative returns curve 
+    # Calculate the cumulative returns curve
     # and set up the High Water Mark
     hwm = [0]
 
     # Create the drawdown and duration series
     idx = pnl.index
-    drawdown = pd.Series(index = idx)
-    duration = pd.Series(index = idx)
+    drawdown = pd.Series(index = idx, dtype=np.float64)
+    duration = pd.Series(index = idx, dtype=np.float64)
 
     # Loop over the index range
     for t in range(1, len(idx)):

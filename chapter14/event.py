@@ -3,21 +3,18 @@
 
 # event.py
 
-from __future__ import print_function
-
-
 class Event(object):
     """
-    Event is base class providing an interface for all subsequent 
-    (inherited) events, that will trigger further events in the 
-    trading infrastructure.   
+    Event is base class providing an interface for all subsequent
+    (inherited) events, that will trigger further events in the
+    trading infrastructure.
     """
     pass
 
 
 class MarketEvent(Event):
     """
-    Handles the event of receiving a new market update with 
+    Handles the event of receiving a new market update with
     corresponding bars.
     """
 
@@ -33,7 +30,7 @@ class SignalEvent(Event):
     Handles the event of sending a Signal from a Strategy object.
     This is received by a Portfolio object and acted upon.
     """
-    
+
     def __init__(self, strategy_id, symbol, datetime, signal_type, strength):
         """
         Initialises the SignalEvent.
@@ -43,7 +40,7 @@ class SignalEvent(Event):
         symbol - The ticker symbol, e.g. 'GOOG'.
         datetime - The timestamp at which the signal was generated.
         signal_type - 'LONG' or 'SHORT'.
-        strength - An adjustment factor "suggestion" used to scale 
+        strength - An adjustment factor "suggestion" used to scale
             quantity at the portfolio level. Useful for pairs strategies.
         """
         self.strategy_id = strategy_id
@@ -68,7 +65,7 @@ class OrderEvent(Event):
         a quantity (integral) and its direction ('BUY' or
         'SELL').
 
-        TODO: Must handle error checking here to obtain 
+        TODO: Must handle error checking here to obtain
         rational orders (i.e. no negative quantities etc).
 
         Parameters:
@@ -88,7 +85,7 @@ class OrderEvent(Event):
         Outputs the values within the Order.
         """
         print(
-            "Order: Symbol=%s, Type=%s, Quantity=%s, Direction=%s" % 
+            "Order: Symbol=%s, Type=%s, Quantity=%s, Direction=%s" %
             (self.symbol, self.order_type, self.quantity, self.direction)
         )
 
@@ -99,17 +96,17 @@ class FillEvent(Event):
     from a brokerage. Stores the quantity of an instrument
     actually filled and at what price. In addition, stores
     the commission of the trade from the brokerage.
-    
+
     TODO: Currently does not support filling positions at
     different prices. This will be simulated by averaging
     the cost.
     """
 
-    def __init__(self, timeindex, symbol, exchange, quantity, 
+    def __init__(self, timeindex, symbol, exchange, quantity,
                  direction, fill_cost, commission=None):
         """
         Initialises the FillEvent object. Sets the symbol, exchange,
-        quantity, direction, cost of fill and an optional 
+        quantity, direction, cost of fill and an optional
         commission.
 
         If commission is not provided, the Fill object will

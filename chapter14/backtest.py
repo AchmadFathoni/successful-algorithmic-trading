@@ -3,14 +3,8 @@
 
 # backtest.py
 
-from __future__ import print_function
-
-import datetime
 import pprint
-try:
-    import Queue as queue
-except ImportError:
-    import queue
+import queue
 import time
 
 
@@ -22,7 +16,7 @@ class Backtest(object):
 
     def __init__(
         self, csv_dir, symbol_list, initial_capital,
-        heartbeat, start_date, data_handler, 
+        heartbeat, start_date, data_handler,
         execution_handler, portfolio, strategy
     ):
         """
@@ -51,17 +45,17 @@ class Backtest(object):
         self.strategy_cls = strategy
 
         self.events = queue.Queue()
-        
+
         self.signals = 0
         self.orders = 0
         self.fills = 0
         self.num_strats = 1
-       
+
         self._generate_trading_instances()
 
     def _generate_trading_instances(self):
         """
-        Generates the trading instance objects from 
+        Generates the trading instance objects from
         their class types.
         """
         print(
@@ -69,7 +63,7 @@ class Backtest(object):
         )
         self.data_handler = self.data_handler_cls(self.events, self.csv_dir, self.symbol_list)
         self.strategy = self.strategy_cls(self.data_handler, self.events)
-        self.portfolio = self.portfolio_cls(self.data_handler, self.events, self.start_date, 
+        self.portfolio = self.portfolio_cls(self.data_handler, self.events, self.start_date,
                                             self.initial_capital)
         self.execution_handler = self.execution_handler_cls(self.events)
 
@@ -100,7 +94,7 @@ class Backtest(object):
                             self.portfolio.update_timeindex(event)
 
                         elif event.type == 'SIGNAL':
-                            self.signals += 1                            
+                            self.signals += 1
                             self.portfolio.update_signal(event)
 
                         elif event.type == 'ORDER':
@@ -118,10 +112,10 @@ class Backtest(object):
         Outputs the strategy performance from the backtest.
         """
         self.portfolio.create_equity_curve_dataframe()
-        
+
         print("Creating summary stats...")
         stats = self.portfolio.output_summary_stats()
-        
+
         print("Creating equity curve...")
         print(self.portfolio.equity_curve.tail(10))
         pprint.pprint(stats)

@@ -5,17 +5,9 @@
 
 from __future__ import print_function
 
-import datetime
-from math import floor
-try:
-    import Queue as queue
-except ImportError:
-    import queue
-
-import numpy as np
 import pandas as pd
 
-from event import FillEvent, OrderEvent
+from event import OrderEvent
 from performance import create_sharpe_ratio, create_drawdowns
 
 
@@ -25,19 +17,19 @@ class Portfolio(object):
     value of all instruments at a resolution of a "bar",
     i.e. secondly, minutely, 5-min, 30-min, 60 min or EOD.
 
-    The positions DataFrame stores a time-index of the 
-    quantity of positions held. 
+    The positions DataFrame stores a time-index of the
+    quantity of positions held.
 
     The holdings DataFrame stores the cash and total market
-    holdings value of each symbol for a particular 
-    time-index, as well as the percentage change in 
+    holdings value of each symbol for a particular
+    time-index, as well as the percentage change in
     portfolio total across bars.
     """
 
     def __init__(self, bars, events, start_date, initial_capital=100000.0):
         """
-        Initialises the portfolio with bars and an event queue. 
-        Also includes a starting datetime index and initial capital 
+        Initialises the portfolio with bars and an event queue.
+        Also includes a starting datetime index and initial capital
         (USD unless otherwise stated).
 
         Parameters:
@@ -51,7 +43,7 @@ class Portfolio(object):
         self.symbol_list = self.bars.symbol_list
         self.start_date = start_date
         self.initial_capital = initial_capital
-        
+
         self.all_positions = self.construct_all_positions()
         self.current_positions = dict( (k,v) for k, v in [(s, 0) for s in self.symbol_list] )
 
@@ -92,7 +84,7 @@ class Portfolio(object):
 
     def update_timeindex(self, event):
         """
-        Adds a new record to the positions matrix for the current 
+        Adds a new record to the positions matrix for the current
         market data bar. This reflects the PREVIOUS bar, i.e. all
         current market data at this stage is known (OHLCV).
 
@@ -178,7 +170,7 @@ class Portfolio(object):
 
     def update_fill(self, event):
         """
-        Updates the portfolio current positions and holdings 
+        Updates the portfolio current positions and holdings
         from a FillEvent.
         """
         if event.type == 'FILL':
@@ -207,8 +199,8 @@ class Portfolio(object):
         if direction == 'LONG' and cur_quantity == 0:
             order = OrderEvent(symbol, order_type, mkt_quantity, 'BUY')
         if direction == 'SHORT' and cur_quantity == 0:
-            order = OrderEvent(symbol, order_type, mkt_quantity, 'SELL')   
-    
+            order = OrderEvent(symbol, order_type, mkt_quantity, 'SELL')
+
         if direction == 'EXIT' and cur_quantity > 0:
             order = OrderEvent(symbol, order_type, abs(cur_quantity), 'SELL')
         if direction == 'EXIT' and cur_quantity < 0:
@@ -217,7 +209,7 @@ class Portfolio(object):
 
     def update_signal(self, event):
         """
-        Acts on a SignalEvent to generate new orders 
+        Acts on a SignalEvent to generate new orders
         based on the portfolio logic.
         """
         if event.type == 'SIGNAL':
