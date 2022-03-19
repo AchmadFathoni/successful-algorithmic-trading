@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2022-03-16T09:07:11.929983697</meta:creation-date><dc:date>2022-03-16T15:58:54.709544705</dc:date><meta:editing-duration>PT1H35M24S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/7.3.1.3$Linux_X86_64 LibreOffice_project/30$Build-3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="14" meta:page-count="1" meta:paragraph-count="10" meta:word-count="159" meta:character-count="993" meta:non-whitespace-character-count="842"/></office:meta>
+ <office:meta><meta:creation-date>2022-03-16T09:07:11.929983697</meta:creation-date><dc:date>2022-03-19T21:11:22.235616122</dc:date><meta:editing-duration>PT1H47M50S</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:generator>LibreOffice/7.3.1.3$Linux_X86_64 LibreOffice_project/30$Build-3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="22" meta:page-count="2" meta:paragraph-count="50" meta:word-count="433" meta:character-count="2675" meta:non-whitespace-character-count="2323"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">487</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">21915</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21265</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">33154</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">44379</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">20615</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">1501</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">13744</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">487</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22400</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">21264</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">25890</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">46798</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">33154</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">44378</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">53767</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -88,7 +88,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1424626</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1915365</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -150,12 +150,11 @@
   <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman"/>
-  <style:font-face style:name="Times New Roman1" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -273,40 +272,154 @@
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties style:font-name="Arial" officeooo:rsid="0013bdff" officeooo:paragraph-rsid="0013bdff"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6" style:master-page-name="">
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Arial" officeooo:paragraph-rsid="000a125d"/>
   </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Arial" officeooo:paragraph-rsid="000a125d"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
-   <style:text-properties style:font-name="Arial" officeooo:paragraph-rsid="000a125d"/>
-  </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6" style:master-page-name="">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Arial" officeooo:rsid="001207f5" officeooo:paragraph-rsid="001207f5"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Arial" officeooo:rsid="001207f5" officeooo:paragraph-rsid="001207f5"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Arial" officeooo:rsid="00101a90" officeooo:paragraph-rsid="000a61f6"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Arial" officeooo:rsid="0015bcf2" officeooo:paragraph-rsid="0015bcf2"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties style:font-name="Arial"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="00173c34" officeooo:paragraph-rsid="00179fa3"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="00173c34" officeooo:paragraph-rsid="00199337"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="00173c34" officeooo:paragraph-rsid="001b83f3"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties style:font-name="Arial"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties style:font-name="Arial" fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0013bdff" officeooo:paragraph-rsid="0013bdff" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0013bdff" officeooo:paragraph-rsid="00173c34" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0013bdff" officeooo:paragraph-rsid="00179fa3" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0013bdff" officeooo:paragraph-rsid="001832e8" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0013bdff" officeooo:paragraph-rsid="00199337" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0013bdff" officeooo:paragraph-rsid="00199435" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0013bdff" officeooo:paragraph-rsid="001cfe5c" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:paragraph-rsid="000a125d"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:paragraph-rsid="000a125d"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0008cedc" officeooo:paragraph-rsid="000a125d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="001207f5" officeooo:paragraph-rsid="001207f5"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="001207f5" officeooo:paragraph-rsid="001207f5"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="00173c34" officeooo:paragraph-rsid="00173c34"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="00173c34" officeooo:paragraph-rsid="00173c34"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="00179fa3" officeooo:paragraph-rsid="00179fa3"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="001832e8" officeooo:paragraph-rsid="001832e8"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="00199337" officeooo:paragraph-rsid="00199337"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="00199435" officeooo:paragraph-rsid="00199435"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="001b83f3" officeooo:paragraph-rsid="001b83f3"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.4cm" fo:margin-right="0cm" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="-0.4cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="001cfe5c" officeooo:paragraph-rsid="001cfe5c"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00056df3"/>
@@ -321,88 +434,123 @@
    <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" officeooo:rsid="0008cedc" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" officeooo:rsid="001832e8" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="00056df3" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="00075ec8" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="00056df3" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0007f4c2" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="00075ec8" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0008cedc" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0007f4c2" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="001207f5" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="0008cedc" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000a125d"/>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="001207f5" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001207f5"/>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="00179fa3" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties fo:font-size="14.1000003814697pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="000a125d" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="14.1000003814697pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lucida Sans1" style:font-size-complex="14.1000003814697pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="001832e8" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="00199337" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" officeooo:rsid="001b83f3" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000a125d"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001207f5"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:font-size="14.1000003814697pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="000a125d" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="14.1000003814697pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lucida Sans1" style:font-size-complex="14.1000003814697pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
    <style:text-properties officeooo:rsid="0014f448"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties officeooo:rsid="00173c34"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties officeooo:rsid="00179fa3"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties officeooo:rsid="001832e8"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties officeooo:rsid="00199337"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties officeooo:rsid="00199435"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="001cfe5c"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Formula">
    <style:graphic-properties style:vertical-pos="from-top" draw:ole-draw-aspect="1"/>
   </style:style>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Formula">
+   <style:graphic-properties style:vertical-pos="from-top" style:horizontal-pos="from-left" style:horizontal-rel="paragraph-content" draw:ole-draw-aspect="1"/>
+  </style:style>
   <text:list-style style:name="L1">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%." text:bullet-char="•">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.635cm" fo:margin-left="0.635cm"/>
+     <style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.635cm" fo:margin-left="0.836cm"/>
     </style:list-level-properties>
    </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="◦">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-    <style:text-properties style:font-name="OpenSymbol"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%." text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.471cm" fo:text-indent="-0.635cm" fo:margin-left="1.471cm"/>
     </style:list-level-properties>
    </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%." text:bullet-char="•">
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="▪">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.106cm" fo:text-indent="-0.635cm" fo:margin-left="2.106cm"/>
     </style:list-level-properties>
    </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%." text:bullet-char="◦">
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.741cm" fo:text-indent="-0.635cm" fo:margin-left="2.741cm"/>
     </style:list-level-properties>
    </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%." text:bullet-char="▪">
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="◦">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.376cm" fo:text-indent="-0.635cm" fo:margin-left="3.376cm"/>
     </style:list-level-properties>
    </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%." text:bullet-char="•">
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="▪">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.011cm" fo:text-indent="-0.635cm" fo:margin-left="4.011cm"/>
     </style:list-level-properties>
    </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%." text:bullet-char="◦">
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.646cm" fo:text-indent="-0.635cm" fo:margin-left="4.646cm"/>
     </style:list-level-properties>
    </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%." text:bullet-char="▪">
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="◦">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.281cm" fo:text-indent="-0.635cm" fo:margin-left="5.281cm"/>
     </style:list-level-properties>
    </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%." text:bullet-char="•">
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="▪">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.916cm" fo:text-indent="-0.635cm" fo:margin-left="5.916cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.551cm" fo:text-indent="-0.635cm" fo:margin-left="6.551cm"/>
     </style:list-level-properties>
    </text:list-level-style-bullet>
   </text:list-style>
@@ -458,214 +606,6 @@
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
-  <text:list-style style:name="L3">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%." text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%." text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%." text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%." text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%." text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%." text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L4">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%." text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%." text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%." text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%." text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%." text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%." text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L5">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.836cm" fo:text-indent="-0.635cm" fo:margin-left="0.836cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.471cm" fo:text-indent="-0.635cm" fo:margin-left="1.471cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.106cm" fo:text-indent="-0.635cm" fo:margin-left="2.106cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.741cm" fo:text-indent="-0.635cm" fo:margin-left="2.741cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.376cm" fo:text-indent="-0.635cm" fo:margin-left="3.376cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.011cm" fo:text-indent="-0.635cm" fo:margin-left="4.011cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.646cm" fo:text-indent="-0.635cm" fo:margin-left="4.646cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.281cm" fo:text-indent="-0.635cm" fo:margin-left="5.281cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.916cm" fo:text-indent="-0.635cm" fo:margin-left="5.916cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.551cm" fo:text-indent="-0.635cm" fo:margin-left="6.551cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-  </text:list-style>
-  <text:list-style style:name="L6">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.635cm" fo:margin-left="0.836cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%." text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.471cm" fo:text-indent="-0.635cm" fo:margin-left="1.471cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%." text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.106cm" fo:text-indent="-0.635cm" fo:margin-left="2.106cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.741cm" fo:text-indent="-0.635cm" fo:margin-left="2.741cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%." text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.376cm" fo:text-indent="-0.635cm" fo:margin-left="3.376cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%." text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.011cm" fo:text-indent="-0.635cm" fo:margin-left="4.011cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.646cm" fo:text-indent="-0.635cm" fo:margin-left="4.646cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%." text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.281cm" fo:text-indent="-0.635cm" fo:margin-left="5.281cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%." text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.916cm" fo:text-indent="-0.635cm" fo:margin-left="5.916cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%." text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.551cm" fo:text-indent="-0.635cm" fo:margin-left="6.551cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1cm" fo:margin-bottom="1cm" fo:margin-left="1cm" fo:margin-right="1cm" fo:background-color="#000000" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" draw:fill="solid" draw:fill-color="#000000" draw:opacity="100%" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -681,7 +621,7 @@
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
  </office:master-styles>
  <office:body>
-  <office:text>
+  <office:text text:use-soft-page-breaks="true">
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
@@ -690,10 +630,10 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
    <text:h text:style-name="P1" text:outline-level="2">Chapter 9: Statistical Learning</text:h>
-   <text:h text:style-name="P2" text:outline-level="3"><text:span text:style-name="T12">9.1 </text:span><text:span text:style-name="T11">What is Statistical Learning?</text:span></text:h>
-   <text:list xml:id="list1929944813" text:style-name="L6">
+   <text:h text:style-name="P2" text:outline-level="3"><text:span text:style-name="T17">9.1 </text:span><text:span text:style-name="T16">What is Statistical Learning?</text:span></text:h>
+   <text:list xml:id="list2516872777" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P4"><text:span text:style-name="T1">Given predictors/features</text:span><text:span text:style-name="T1"><draw:frame draw:style-name="fr1" draw:name="Object1" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="2.9cm" svg:height="0.531cm" draw:z-index="1"><draw:object>
+     <text:p text:style-name="P22"><text:span text:style-name="T1">Given predictors/features</text:span><text:span text:style-name="T1"><draw:frame draw:style-name="fr2" draw:name="Object1" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="2.9cm" svg:height="0.531cm" draw:z-index="1"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mstyle mathcolor="#FFFAFA">
@@ -769,7 +709,7 @@
          </office:binary-data>
         </draw:image>
         <svg:desc>formula</svg:desc>
-       </draw:frame></text:span><text:span text:style-name="T1">, we try to estimate response/outcome</text:span><text:span text:style-name="T1"><draw:frame draw:style-name="fr1" draw:name="Object6" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="0.494cm" svg:height="0.467cm" draw:z-index="2"><draw:object>
+       </draw:frame></text:span><text:span text:style-name="T1">, we try to estimate response/outcome</text:span><text:span text:style-name="T1"><draw:frame draw:style-name="fr2" draw:name="Object6" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="0.494cm" svg:height="0.467cm" draw:z-index="2"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mstyle mathcolor="#FFFAFA">
@@ -789,7 +729,7 @@
          </office:binary-data>
         </draw:image>
         <svg:desc>formula</svg:desc>
-       </draw:frame></text:span><text:span text:style-name="T1">. The model is </text:span><text:span text:style-name="T1"><draw:frame draw:style-name="fr1" draw:name="Object3" text:anchor-type="as-char" svg:y="-0.386cm" svg:width="2.212cm" svg:height="0.508cm" draw:z-index="3"><draw:object>
+       </draw:frame></text:span><text:span text:style-name="T1">. The model is </text:span><text:span text:style-name="T1"><draw:frame draw:style-name="fr2" draw:name="Object3" text:anchor-type="as-char" svg:y="-0.386cm" svg:width="2.212cm" svg:height="0.508cm" draw:z-index="3"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mstyle mathcolor="#FFFAFA">
@@ -848,7 +788,7 @@
          </office:binary-data>
         </draw:image>
         <svg:desc>formula</svg:desc>
-       </draw:frame></text:span><text:span text:style-name="T1">. Where </text:span><draw:frame draw:style-name="fr1" draw:name="Object7" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="0.404cm" svg:height="0.467cm" draw:z-index="4"><draw:object>
+       </draw:frame></text:span><text:span text:style-name="T1">. Where </text:span><draw:frame draw:style-name="fr2" draw:name="Object7" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="0.404cm" svg:height="0.467cm" draw:z-index="4"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
          <semantics>
           <mstyle mathcolor="#FFFAFA">
@@ -868,10 +808,10 @@
         </office:binary-data>
        </draw:image>
        <svg:desc>formula</svg:desc>
-      </draw:frame><text:span text:style-name="T6">is the unknown function <text:s/></text:span><text:span text:style-name="T7">and </text:span><text:span text:style-name="T3">ϵ </text:span><text:span text:style-name="T7">represents error/noise with zero mean</text:span><text:span text:style-name="T3">.</text:span><text:span text:style-name="T7"> The error is factor that not included in unknown function and independent from predictors.</text:span></text:p>
+      </draw:frame><text:span text:style-name="T7">is the unknown function <text:s/></text:span><text:span text:style-name="T8">and </text:span><text:span text:style-name="T3">ϵ </text:span><text:span text:style-name="T8">represents error/noise with zero mean</text:span><text:span text:style-name="T3">.</text:span><text:span text:style-name="T8"> The error is factor that not included in unknown function and independent from predictors.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5"><text:span text:style-name="T7">We estimate outcome with <text:s/></text:span><text:span text:style-name="T7"><draw:frame draw:style-name="fr1" draw:name="Object2" text:anchor-type="as-char" svg:y="-0.443cm" svg:width="1.729cm" svg:height="0.564cm" draw:z-index="5"><draw:object>
+     <text:p text:style-name="P23"><text:span text:style-name="T8">We estimate outcome with <text:s/></text:span><text:span text:style-name="T8"><draw:frame draw:style-name="fr2" draw:name="Object2" text:anchor-type="as-char" svg:y="-0.443cm" svg:width="1.729cm" svg:height="0.564cm" draw:z-index="5"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mstyle mathcolor="#FFFAFA">
@@ -932,7 +872,7 @@
          </office:binary-data>
         </draw:image>
         <svg:desc>formula</svg:desc>
-       </draw:frame></text:span><text:span text:style-name="T7"><text:s/></text:span><text:span text:style-name="T8">using linear equation </text:span><draw:frame draw:style-name="fr1" draw:name="Object4" text:anchor-type="as-char" svg:y="-0.436cm" svg:width="4.918cm" svg:height="0.589cm" draw:z-index="6"><draw:object>
+       </draw:frame></text:span><text:span text:style-name="T8"><text:s/></text:span><text:span text:style-name="T9">using linear equation </text:span><draw:frame draw:style-name="fr2" draw:name="Object4" text:anchor-type="as-char" svg:y="-0.436cm" svg:width="4.918cm" svg:height="0.589cm" draw:z-index="6"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
          <semantics>
           <mstyle mathcolor="#FFFAFA">
@@ -1053,7 +993,7 @@
         </office:binary-data>
        </draw:image>
        <svg:desc>formula</svg:desc>
-      </draw:frame><text:span text:style-name="T9">with </text:span><draw:frame draw:style-name="fr1" draw:name="Object8" text:anchor-type="as-char" svg:y="-0.312cm" svg:width="0.564cm" svg:height="0.466cm" draw:z-index="7"><draw:object>
+      </draw:frame><text:span text:style-name="T10">with </text:span><draw:frame draw:style-name="fr2" draw:name="Object8" text:anchor-type="as-char" svg:y="-0.312cm" svg:width="0.564cm" svg:height="0.466cm" draw:z-index="7"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
          <semantics>
           <mstyle mathcolor="#FFFAFA">
@@ -1079,7 +1019,7 @@
         </office:binary-data>
        </draw:image>
        <svg:desc>formula</svg:desc>
-      </draw:frame><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T9">as n-th parameter</text:span><text:span text:style-name="T8">. </text:span><text:span text:style-name="T9">Linear equation is not really good model. It needs more parameter to predict </text:span><text:span text:style-name="T9"><draw:frame draw:style-name="fr1" draw:name="Object9" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="0.494cm" svg:height="0.467cm" draw:z-index="8"><draw:object>
+      </draw:frame><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T10">as n-th parameter</text:span><text:span text:style-name="T9">. </text:span><text:span text:style-name="T10">Linear equation is not really good model. It needs more parameter to predict </text:span><text:span text:style-name="T10"><draw:frame draw:style-name="fr2" draw:name="Object9" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="0.494cm" svg:height="0.467cm" draw:z-index="8"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mstyle mathcolor="#FFFAFA">
@@ -1099,10 +1039,10 @@
          </office:binary-data>
         </draw:image>
         <svg:desc>formula</svg:desc>
-       </draw:frame></text:span><text:span text:style-name="T9">. But too much parameter will make the model become over-fitting.</text:span></text:p>
+       </draw:frame></text:span><text:span text:style-name="T10">. But too much parameter will make the model become over-fitting.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5"><text:span text:style-name="T9">Next, we consider non-parametric model of </text:span><text:span text:style-name="T11"><draw:frame draw:style-name="fr1" draw:name="Object5" text:anchor-type="as-char" svg:y="-0.443cm" svg:width="0.404cm" svg:height="0.534cm" draw:z-index="0"><draw:object>
+     <text:p text:style-name="P23"><text:span text:style-name="T10">Next, we consider non-parametric model of </text:span><text:span text:style-name="T16"><draw:frame draw:style-name="fr2" draw:name="Object5" text:anchor-type="as-char" svg:y="-0.443cm" svg:width="0.404cm" svg:height="0.534cm" draw:z-index="0"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mstyle mathcolor="#FFFAFA">
@@ -1128,15 +1068,15 @@
          </office:binary-data>
         </draw:image>
         <svg:desc>formula</svg:desc>
-       </draw:frame></text:span><text:span text:style-name="T2">. </text:span><text:span text:style-name="T9">This model can fit better but requires a lot of observation. It also has higher <text:s/>risk of over-fitting.</text:span></text:p>
+       </draw:frame></text:span><text:span text:style-name="T2">. </text:span><text:span text:style-name="T10">This model can fit better but requires a lot of observation. It also has higher <text:s/>risk of over-fitting.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P6"><text:span text:style-name="T9"/></text:p>
-   <text:h text:style-name="P1" text:outline-level="2"><text:span text:style-name="T10">Chapter </text:span><text:span text:style-name="T9">1</text:span><text:span text:style-name="T5">0: </text:span><text:span text:style-name="T13">Testing</text:span><text:span text:style-name="T5"> for Mean Reversion</text:span></text:h>
-   <text:h text:style-name="P3" text:outline-level="3"><text:span text:style-name="T5">10.1 Testing for Mean Reversion</text:span></text:h>
-   <text:list xml:id="list155856607878820" text:continue-numbering="true" text:style-name="L6">
+   <text:p text:style-name="P24"/>
+   <text:h text:style-name="P1" text:outline-level="2"><text:span text:style-name="T11">Chapter </text:span><text:span text:style-name="T10">1</text:span><text:span text:style-name="T6">0: </text:span><text:span text:style-name="T18">Testing</text:span><text:span text:style-name="T6"> for Mean Reversion</text:span></text:h>
+   <text:h text:style-name="P15" text:outline-level="3">10.1 Testing for Mean Reversion</text:h>
+   <text:list xml:id="list211122890748806" text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P7">Ornstein-Uhlenbeck stochastic differential equation <draw:frame draw:style-name="fr1" draw:name="Object10" text:anchor-type="as-char" svg:y="-0.386cm" svg:width="4.228cm" svg:height="0.542cm" draw:z-index="9"><draw:object>
+     <text:p text:style-name="P25">Ornstein-Uhlenbeck stochastic differential equation <draw:frame draw:style-name="fr2" draw:name="Object10" text:anchor-type="as-char" svg:y="-0.386cm" svg:width="4.228cm" svg:height="0.542cm" draw:z-index="9"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
          <semantics>
           <mstyle mathcolor="#FFFAFA">
@@ -1232,10 +1172,10 @@
         </office:binary-data>
        </draw:image>
        <svg:desc>formula</svg:desc>
-      </draw:frame></text:p>
+      </draw:frame>, <text:span text:style-name="T20">for mean reverting signal</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8">Augmented Dickey-Fuller Test: <draw:frame draw:style-name="fr1" draw:name="Object11" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="8.874cm" svg:height="0.531cm" draw:z-index="10"><draw:object>
+     <text:p text:style-name="P26">Augmented Dickey-Fuller Test: <draw:frame draw:style-name="fr2" draw:name="Object11" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="8.874cm" svg:height="0.531cm" draw:z-index="10"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
          <semantics>
           <mstyle mathcolor="#FFFAFA">
@@ -1450,164 +1390,1209 @@
         </office:binary-data>
        </draw:image>
        <svg:desc>formula</svg:desc>
-      </draw:frame>. <text:span text:style-name="T14">Test if </text:span><text:span text:style-name="T14"><draw:frame draw:style-name="fr1" draw:name="Object12" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="1.051cm" svg:height="0.483cm" draw:z-index="11"><draw:object>
-         <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-          <semantics>
-           <mstyle mathcolor="#FFFAFA">
-            <mrow>
-             <mi>γ</mi>
-             <mo stretchy="false">=</mo>
-             <mn>0</mn>
-            </mrow>
-           </mstyle>
-           <annotation encoding="StarMath 5.0"> color snow {%gamma = 0} </annotation>
-          </semantics>
-         </math>
-        </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAARwEAADj
-          AQAAIAAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAABsEAADiAQAAlQAB
-          AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJv
-          bAAAAAAAAKYBAAD//wAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAA
-          AAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAaAAAAhAAAAHIB
-          AAABAAAAswPuAAAAAAABAAEAswOMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoA
-          T3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAA
-          AACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAa
-          AAAAjQEAAHIBAAABAAAAPQBPAQAAAAABAAEAPQCMAAEAAAAAAIsAAQACAAAAHwCKAAEARgAA
-          AAQAQAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAA
-          AAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYA
-          AQAEAAAA+vr/AHIAAgAXAAAA5QIAAHIBAAABADDTAAAAAAABAAEAMACMAAEAAAAAAJUAAQAE
-          AAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
-         </office:binary-data>
-        </draw:image>
-        <svg:desc>formula</svg:desc>
-       </draw:frame></text:span><text:span text:style-name="T14">when </text:span><text:span text:style-name="T14"><draw:frame draw:style-name="fr1" draw:name="Object14" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="1.637cm" svg:height="0.483cm" draw:z-index="12"><draw:object>
-         <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-          <semantics>
-           <mstyle mathcolor="#FFFAFA">
-            <mrow>
-             <mi>α</mi>
-             <mo stretchy="false">=</mo>
-             <mi>β</mi>
-             <mo stretchy="false">=</mo>
-             <mn>0</mn>
-            </mrow>
-           </mstyle>
-           <annotation encoding="StarMath 5.0"> color snow {%alpha = %beta = 0} </annotation>
-          </semantics>
-         </math>
-        </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAWUGAADj
-          AQAAMAAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAGQGAADiAQAAlQAB
-          AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJv
-          bAAAAAAAAKYBAAD//wAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAA
-          AAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAaAAAAagAAAHIB
-          AAABAAAAsQMKAQAAAAABAAEAsQOMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoA
-          T3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAA
-          AACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAa
-          AAAAjQEAAHIBAAABAAAAPQBPAQAAAAABAAEAPQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAA
-          AAQAOgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAACAP8DAAAAAAAAAAEA
-          /wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA
-          +vr/AHIAAgAaAAAA5QIAAHIBAAABAAAAsgPoAAAAAAABAAEAsgOMAAEAAAAAAIsAAQACAAAA
-          HwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8D
-          AAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/
-          AIYAAQAEAAAA+vr/AHIAAgAaAAAA0wMAAHIBAAABAAAAPQBPAQAAAAABAAEAPQCMAAEAAAAA
-          AIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAA
-          AAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
-          ////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAXAAAAKwUAAHIBAAABADDTAAAAAAAB
-          AAEAMACMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
-         </office:binary-data>
-        </draw:image>
-        <svg:desc>formula</svg:desc>
-       </draw:frame></text:span><text:span text:style-name="T14">, which mean the process is a random walk because it doesn’t depend on previous value or it’s memory-less </text:span></text:p>
+      </draw:frame>. <text:span text:style-name="T20">to test if signal is random walk </text:span></text:p>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-header>
+         <text:h text:style-name="P16" text:outline-level="3">10.<text:span text:style-name="T21">2</text:span> Testing for <text:span text:style-name="T20">Stationary</text:span></text:h>
+        </text:list-header>
+       </text:list>
+      </text:list-item>
+     </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P10">Before testing, compute the test statistics <draw:frame draw:style-name="fr1" draw:name="Object13" text:anchor-type="as-char" svg:y="-0.601cm" svg:width="2.501cm" svg:height="1.02cm" draw:z-index="13"><draw:object>
+     <text:p text:style-name="P27">Stationary also can be tested with Hurst Exponent</text:p>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-header>
+         <text:h text:style-name="P17" text:outline-level="3">10.<text:span text:style-name="T21">3</text:span> <text:span text:style-name="T21">Cointegration</text:span></text:h>
+        </text:list-header>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P27">Cointegration is term that describe two signal that have mean-reverting difference. We can use mean-reverting startegy with these signal</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P28"/>
+   <text:h text:style-name="P11" text:outline-level="2"><text:span text:style-name="T11">Chapter </text:span><text:span text:style-name="T10">1</text:span><text:span text:style-name="T12">1</text:span><text:span text:style-name="T6">: </text:span><text:span text:style-name="T12">Forcasting</text:span></text:h>
+   <text:list xml:id="list211122688544577" text:continue-numbering="true" text:style-name="L1">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-header>
+         <text:h text:style-name="P17" text:outline-level="3"><text:span text:style-name="T21">11.1 Measuring Forecasting Accuracy</text:span></text:h>
+        </text:list-header>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P29"><text:span text:style-name="T6">Hit rate: percentage of correct prediction</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P29"><text:span text:style-name="T6">Confusion Matrix</text:span><text:span text:style-name="T6"><draw:frame draw:style-name="fr1" draw:name="Object12" text:anchor-type="as-char" svg:y="-0.679cm" svg:width="1.967cm" svg:height="1.212cm" draw:z-index="11"><draw:object>
+         <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+          <semantics>
+           <mstyle mathcolor="#FFFAFA">
+            <mrow>
+             <mo fence="true" form="prefix" stretchy="true">(</mo>
+             <mrow>
+              <mtable>
+               <mtr>
+                <mtd>
+                 <msub>
+                  <mi>U</mi>
+                  <mi>T</mi>
+                 </msub>
+                </mtd>
+                <mtd>
+                 <msub>
+                  <mi>U</mi>
+                  <mi>F</mi>
+                 </msub>
+                </mtd>
+               </mtr>
+               <mtr>
+                <mtd>
+                 <msub>
+                  <mi>D</mi>
+                  <mi>F</mi>
+                 </msub>
+                </mtd>
+                <mtd>
+                 <msub>
+                  <mi>D</mi>
+                  <mi>T</mi>
+                 </msub>
+                </mtd>
+               </mtr>
+              </mtable>
+             </mrow>
+             <mo fence="true" form="postfix" stretchy="true">)</mo>
+            </mrow>
+           </mstyle>
+           <annotation encoding="StarMath 5.0">color snow {left ( matrix{U_T#U_F##D_F#D_T} right ) }</annotation>
+          </semantics>
+         </math>
+        </draw:object><draw:image>
+         <office:binary-data>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
+          AA==
+         </office:binary-data>
+        </draw:image>
+       </draw:frame></text:span><text:span text:style-name="T6">, </text:span><text:span text:style-name="T5">U </text:span><text:span text:style-name="T13">for up and </text:span><text:span text:style-name="T5">D </text:span><text:span text:style-name="T13">for down. Sub-script </text:span><text:span text:style-name="T5">T </text:span><text:span text:style-name="T13">for true and </text:span><text:span text:style-name="T5">F</text:span><text:span text:style-name="T13"> for false. </text:span></text:p>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-header>
+         <text:h text:style-name="P18" text:outline-level="3"><text:span text:style-name="T21">11.</text:span><text:span text:style-name="T22">2</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T22">Factor Choice</text:span></text:h>
+        </text:list-header>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P30"><text:span text:style-name="T6">Lagged price and volume, basically use historical data</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P30"><text:span text:style-name="T6">External Factors, usually sentiment from news or fundamental data</text:span></text:p>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-header>
+         <text:h text:style-name="P18" text:outline-level="3"><text:span text:style-name="T21">11.</text:span><text:span text:style-name="T22">3 Classification Models</text:span></text:h>
+        </text:list-header>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P30"><text:span text:style-name="T6">Logistic Regression, pretty familiar</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P30"><text:span text:style-name="T6">Linear Discriminant Analysis, Bayesian method that assume Normality. </text:span><text:span text:style-name="T14">Good for linear boundaries and less observation/high bias. Up and Down class have same covariance matrix</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P31"><text:span text:style-name="T6">Quadratic Discriminant Analysis, same as above except Up and Down class have different covariance matrix. <text:s/>Good for non-linear boundaries and more observation/low bias.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P31"><text:span text:style-name="T6">Support Vector Machine/ Support Vector Classifier. Not well explained in the book.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P31"><text:span text:style-name="T6">Decision Trees and Random Forests: </text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P31"><text:span text:style-name="T6">Principal Component Analysis, unsupervised learning that aim to reduce predictor dimension</text:span></text:p>
+     <text:list>
+      <text:list-header>
+       <text:h text:style-name="P12" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T11">Chapter </text:span><text:span text:style-name="T10">1</text:span><text:span text:style-name="T15">2</text:span><text:span text:style-name="T6">: </text:span><text:span text:style-name="T12">Forcasting</text:span></text:h>
+       <text:list>
+        <text:list-header>
+         <text:h text:style-name="P19" text:outline-level="3"><text:span text:style-name="T21">1</text:span><text:span text:style-name="T23">2</text:span><text:span text:style-name="T21">.1 </text:span><text:span text:style-name="T23">Trade Ana</text:span><text:span text:style-name="T24">lysis</text:span></text:h>
+        </text:list-header>
+       </text:list>
+      </text:list-header>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P32"><text:span text:style-name="T14">T</text:span><text:span text:style-name="T6">otal Profit/Loss (PnL)</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P32"><text:span text:style-name="T6">Average Period PnL: average period of profit or loss</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P32"><text:span text:style-name="T6">Maximum Period Profit</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P32"><text:span text:style-name="T6">Maximum Period Loss</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P32"><text:span text:style-name="T6">Average Period Profit</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P32"><text:span text:style-name="T6">Average Period Loss</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P32"><text:span text:style-name="T6">Winning Periods: count of all period</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P32"><text:span text:style-name="T6">Losing Periods</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P32"><text:span text:style-name="T6">Percentage Win/Loss Periods</text:span></text:p>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-header>
+         <text:h text:style-name="P20" text:outline-level="3"><text:span text:style-name="T21">1</text:span><text:span text:style-name="T23">2</text:span><text:span text:style-name="T21">.</text:span><text:span text:style-name="T24">2</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T24">Strategy and Portofolio Analysis</text:span></text:h>
+        </text:list-header>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P32"><text:span text:style-name="T14">R</text:span><text:span text:style-name="T6">eturn Analysis </text:span><text:span text:style-name="T6"><draw:frame draw:style-name="fr1" draw:name="Object13" text:anchor-type="as-char" svg:y="-0.386cm" svg:width="4.136cm" svg:height="0.542cm" draw:z-index="12"><draw:object>
+         <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+          <semantics>
+           <mstyle mathcolor="#FFFAFA">
+            <mrow>
+             <msub>
+              <mi>r</mi>
+              <mi>t</mi>
+             </msub>
+             <mo stretchy="false">=</mo>
+             <mrow>
+              <mrow>
+               <mo fence="true" form="prefix" stretchy="false">(</mo>
+               <mrow>
+                <mrow>
+                 <msub>
+                  <mi>P</mi>
+                  <mi>f</mi>
+                 </msub>
+                 <mo stretchy="false">−</mo>
+                 <mi>P</mi>
+                 <mo stretchy="false">−</mo>
+                 <mi>i</mi>
+                </mrow>
+               </mrow>
+               <mo fence="true" form="postfix" stretchy="false">)</mo>
+              </mrow>
+              <mo stretchy="false">/</mo>
+              <msub>
+               <mi>P</mi>
+               <mi>i</mi>
+              </msub>
+              <mo stretchy="false">∗</mo>
+              <mn>100</mn>
+             </mrow>
+            </mrow>
+           </mstyle>
+           <annotation encoding="StarMath 5.0">color snow {r_t = ( P_f - P-i )/P_i * 100}</annotation>
+          </semantics>
+         </math>
+        </draw:object><draw:image>
+         <office:binary-data>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
+          CQCMAAEAAAAAAA==
+         </office:binary-data>
+        </draw:image>
+        <svg:desc>formula</svg:desc>
+       </draw:frame></text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P32"><text:span text:style-name="T14">R</text:span><text:span text:style-name="T6">isk/Reward Analysis</text:span></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P32"><text:span text:style-name="T6">Sharpe Ratio </text:span><text:span text:style-name="T6"><draw:frame draw:style-name="fr1" draw:name="Object14" text:anchor-type="as-char" svg:y="-0.693cm" svg:width="3.3cm" svg:height="1.184cm" draw:z-index="13"><draw:object>
+           <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+            <semantics>
+             <mstyle mathcolor="#FFFAFA">
+              <mrow>
+               <mi>S</mi>
+               <mo stretchy="false">=</mo>
+               <mfrac>
+                <mrow>
+                 <mi mathvariant="italic">Avg</mi>
+                 <mrow>
+                  <mo fence="true" form="prefix" stretchy="false">(</mo>
+                  <mrow>
+                   <mrow>
+                    <msub>
+                     <mi>R</mi>
+                     <mi>a</mi>
+                    </msub>
+                    <mo stretchy="false">−</mo>
+                    <msub>
+                     <mi>R</mi>
+                     <mi>b</mi>
+                    </msub>
+                   </mrow>
+                  </mrow>
+                  <mo fence="true" form="postfix" stretchy="false">)</mo>
+                 </mrow>
+                </mrow>
+                <msqrt>
+                 <mrow>
+                  <mi mathvariant="italic">Var</mi>
+                  <mrow>
+                   <mo fence="true" form="prefix" stretchy="false">(</mo>
+                   <mrow>
+                    <mrow>
+                     <msub>
+                      <mi>R</mi>
+                      <mi>a</mi>
+                     </msub>
+                     <mo stretchy="false">−</mo>
+                     <msub>
+                      <mi>R</mi>
+                      <mi>b</mi>
+                     </msub>
+                    </mrow>
+                   </mrow>
+                   <mo fence="true" form="postfix" stretchy="false">)</mo>
+                  </mrow>
+                 </mrow>
+                </msqrt>
+               </mfrac>
+              </mrow>
+             </mstyle>
+             <annotation encoding="StarMath 5.0">color snow {S= {Avg ( R_a - R_b )} over sqrt{Var(R_a - R_b)}}</annotation>
+            </semantics>
+           </math>
+          </draw:object><draw:image>
+           <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAeQMAACg
+            BAAAtAAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAOMMAACfBAAAlQAB
+            AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
+            biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
+            AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAXAAAA
+            agAAALACAAABAFPTAAAAAAABAAEAUwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAA
+            AAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAA
+            AAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIA
+            AgAaAAAAWAEAALACAAABAAAAPQBPAQAAAAABAAEAPQCMAAEAAAAAAIsAAQACAAAAHwCKAAEA
+            RgAAAAQAQAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8D
+            AAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/
+            AIYAAQAEAAAA+vr/AHIAAgAdAAAAaQMAAI0BAAADAEF2Z3kCAAAAAAMAAwBBAHYAZwCMAAEA
+            AAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAA
+            AAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
+            AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAaAAAA/wUAAI0BAAABAAAAKACPAAAAAAAB
+            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
+           </office:binary-data>
+          </draw:image>
+          <svg:desc>formula</svg:desc>
+         </draw:frame></text:span><text:span text:style-name="T6">. </text:span><draw:frame draw:style-name="fr1" draw:name="Object15" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="0.631cm" svg:height="0.531cm" draw:z-index="14"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+           <semantics>
+            <mstyle mathcolor="#FFFAFA">
+             <msub>
+              <mi>R</mi>
+              <mi>a</mi>
+             </msub>
+            </mstyle>
+            <annotation encoding="StarMath 5.0">color snow {R_a}</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAXcCAAAT
+           AgAAGAAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAHYCAAASAgAAlQAB
+           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
+           biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
+           AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAXAAAA
+           hAAAAHIBAAABAFICAQAAAAABAAEAUgCMAAEAAAAAAIsAAQACAAAAHwCKAAEARgAAAAQAQAAA
+           ABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAP0AAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA
+           /wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA
+           +vr/AHIAAgAXAAAAjQEAANwBAAABAGF/AAAAAAABAAEAYQCMAAEAAAAAAJUAAQAEAAAAAAAA
+           AJYAAQACAAAACQCMAAEAAAAAAA==
+          </office:binary-data>
+         </draw:image>
+         <svg:desc>formula</svg:desc>
+        </draw:frame><text:span text:style-name="T15">is measured return rate </text:span><text:span text:style-name="T15"><draw:frame draw:style-name="fr1" draw:name="Object16" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="0.631cm" svg:height="0.531cm" draw:z-index="15"><draw:object>
+           <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+            <semantics>
+             <mstyle mathcolor="#FFFAFA">
+              <msub>
+               <mi>R</mi>
+               <mi>b</mi>
+              </msub>
+             </mstyle>
+             <annotation encoding="StarMath 5.0">color snow {R_b}</annotation>
+            </semantics>
+           </math>
+          </draw:object><draw:image>
+           <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAXcCAAAT
+            AgAAGAAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAHYCAAASAgAAlQAB
+            AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
+            biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
+            AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAXAAAA
+            hAAAAHIBAAABAFICAQAAAAABAAEAUgCMAAEAAAAAAIsAAQACAAAAHwCKAAEARgAAAAQAQAAA
+            ABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAP0AAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA
+            /wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA
+            +vr/AHIAAgAXAAAAjQEAANwBAAABAGJ/AAAAAAABAAEAYgCMAAEAAAAAAJUAAQAEAAAAAAAA
+            AJYAAQACAAAACQCMAAEAAAAAAA==
+           </office:binary-data>
+          </draw:image>
+          <svg:desc>formula</svg:desc>
+         </draw:frame></text:span><text:span text:style-name="T15">is benchmark</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P33"><text:span text:style-name="T6">Annualised Sharpe </text:span><text:span text:style-name="T6"><draw:frame draw:style-name="fr1" draw:name="Object17" text:anchor-type="as-char" svg:y="-0.693cm" svg:width="4.24cm" svg:height="1.184cm" draw:z-index="16"><draw:object>
+           <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+            <semantics>
+             <mstyle mathcolor="#FFFAFA">
+              <mrow>
+               <mrow>
+                <mi>S</mi>
+                <mo stretchy="false">=</mo>
+                <msqrt>
+                 <mi>N</mi>
+                </msqrt>
+               </mrow>
+               <mfrac>
+                <mrow>
+                 <mi mathvariant="italic">Avg</mi>
+                 <mrow>
+                  <mo fence="true" form="prefix" stretchy="false">(</mo>
+                  <mrow>
+                   <mrow>
+                    <msub>
+                     <mi>R</mi>
+                     <mi>a</mi>
+                    </msub>
+                    <mo stretchy="false">−</mo>
+                    <msub>
+                     <mi>R</mi>
+                     <mi>b</mi>
+                    </msub>
+                   </mrow>
+                  </mrow>
+                  <mo fence="true" form="postfix" stretchy="false">)</mo>
+                 </mrow>
+                </mrow>
+                <msqrt>
+                 <mrow>
+                  <mo fence="true" form="prefix" stretchy="false">(</mo>
+                  <mrow>
+                   <mrow>
+                    <mi mathvariant="italic">Var</mi>
+                    <mrow>
+                     <mo fence="true" form="prefix" stretchy="false">(</mo>
+                     <mrow>
+                      <mrow>
+                       <msub>
+                        <mi>R</mi>
+                        <mi>a</mi>
+                       </msub>
+                       <mo stretchy="false">−</mo>
+                       <msub>
+                        <mi>R</mi>
+                        <mi>b</mi>
+                       </msub>
+                      </mrow>
+                     </mrow>
+                     <mo fence="true" form="postfix" stretchy="false">)</mo>
+                    </mrow>
+                   </mrow>
+                  </mrow>
+                  <mo fence="true" form="postfix" stretchy="false">)</mo>
+                 </mrow>
+                </msqrt>
+               </mfrac>
+              </mrow>
+             </mstyle>
+             <annotation encoding="StarMath 5.0">color snow {S= sqrt{N}{Avg ( R_a - R_b )} over sqrt(Var(R_a - R_b))}</annotation>
+            </semantics>
+           </math>
+          </draw:object><draw:image>
+           <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZEQAACg
+            BAAA3gAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAJAQAACfBAAAlQAB
+            AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
+            biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
+            AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAXAAAA
+            agAAALACAAABAFPTAAAAAAABAAEAUwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAA
+            AAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAA
+            AAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIA
+            AgAaAAAAWAEAALACAAABAAAAPQBPAQAAAAABAAEAPQCMAAEAAAAAAIsAAQACAAAAHwCKAAEA
+            QAAAAAQAOgAAAAoAT3BlblN5bWJvbAAApgEAAAQCAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAA
+            AAEA/wMAAAAAAKYBAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAE
+            AAAA+vr/AHIAAgAaAAAAygIAAMoCAAABAAAAGiLhAAAAAAABAAEAGiKMAAEAAAAAAIsAAQAC
+            AAAAHwCFAAEABQAAAPr6/wABhAABAAUAAAAAAAAAAIoAAQBAAAAABAA6AAAACgBPcGVuU3lt
+            Ym9sAACmAQAABAIAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAApgEAAIgAAQAC
+            AAAAAQCHAAEABQAAAP////8AhgABAAQAAAD6+v8AhgABAAQAAAD6+v8AZwABABAAAACeAwAA
+            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
+            +vr/AHIAAgAdAAAABwcAAAgEAAADAFZhckoCAAAAAAMAAwBWAGEAcgCMAAEAAAAAAIsAAQAC
+            AAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAA
+            AP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA
+            +vr/AIYAAQAEAAAA+vr/AHIAAgAaAAAAggkAAAgEAAABAAAAKACPAAAAAAABAAEAKACMAAEA
+            AAAAAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYB
+            AAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUA
+            AAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAXAAAAOwoAAAgEAAABAFICAQAA
+            AAABAAEAUgCMAAEAAAAAAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlvbiBT
+            ZXJpZgAAAAAAAP0AAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEA
+            AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAXAAAARAsA
+            AHIEAAABAGF/AAAAAAABAAEAYQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoA
+            T3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAA
+            AACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAa
+            AAAAyAsAAAgEAAABAAAAEiJPAQAAAAABAAEAEiKMAAEAAAAAAIsAAQACAAAAHwCKAAEARgAA
+            AAQAQAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAA
+            AAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYA
+            AQAEAAAA+vr/AHIAAgAXAAAAOw0AAAgEAAABAFICAQAAAAABAAEAUgCMAAEAAAAAAIsAAQAC
+            AAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAP0AAAAAAAAAAAAF
+            AAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
+            AQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAXAAAAXg4AAHIEAAABAGJ/AAAAAAABAAEAYgCM
+            AAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD/
+            /wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+            ////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAaAAAA4g4AAAgEAAABAAAAKQCPAAAA
+            AAABAAEAKQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJvbAAA
+            AAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEA
+            hwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAaAAAAgQ8AAAgEAAAB
+            AAAAKQCPAAAAAAABAAEAKQCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAA
+            AA==
+           </office:binary-data>
+          </draw:image>
+          <svg:desc>formula</svg:desc>
+         </draw:frame></text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P33"><text:span text:style-name="T6">Sortino Ratio </text:span><text:span text:style-name="T6"><draw:frame draw:style-name="fr1" draw:name="Object18" text:anchor-type="as-char" svg:y="-0.693cm" svg:width="4.764cm" svg:height="1.184cm" draw:z-index="17"><draw:object>
+           <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+            <semantics>
+             <mstyle mathcolor="#FFFAFA">
+              <mrow>
+               <mi mathvariant="italic">Sortino</mi>
+               <mo stretchy="false">=</mo>
+               <mfrac>
+                <mrow>
+                 <mi mathvariant="italic">Avg</mi>
+                 <mrow>
+                  <mo fence="true" form="prefix" stretchy="false">(</mo>
+                  <mrow>
+                   <mrow>
+                    <msub>
+                     <mi>R</mi>
+                     <mi>a</mi>
+                    </msub>
+                    <mo stretchy="false">−</mo>
+                    <msub>
+                     <mi>R</mi>
+                     <mi>b</mi>
+                    </msub>
+                   </mrow>
+                  </mrow>
+                  <mo fence="true" form="postfix" stretchy="false">)</mo>
+                 </mrow>
+                </mrow>
+                <msqrt>
+                 <mrow>
+                  <mo fence="true" form="prefix" stretchy="false">(</mo>
+                  <mrow>
+                   <mrow>
+                    <mi mathvariant="italic">Var</mi>
+                    <msub>
+                     <mrow>
+                      <mo fence="true" form="prefix" stretchy="false">(</mo>
+                      <mrow>
+                       <mrow>
+                        <msub>
+                         <mi>R</mi>
+                         <mi>a</mi>
+                        </msub>
+                        <mo stretchy="false">−</mo>
+                        <msub>
+                         <mi>R</mi>
+                         <mi>b</mi>
+                        </msub>
+                       </mrow>
+                      </mrow>
+                      <mo fence="true" form="postfix" stretchy="false">)</mo>
+                     </mrow>
+                     <mi>d</mi>
+                    </msub>
+                   </mrow>
+                  </mrow>
+                  <mo fence="true" form="postfix" stretchy="false">)</mo>
+                 </mrow>
+                </msqrt>
+               </mfrac>
+              </mrow>
+             </mstyle>
+             <annotation encoding="StarMath 5.0">color snow {Sortino= {Avg ( R_a - R_b )} over sqrt(Var(R_a - R_b)_d)}</annotation>
+            </semantics>
+           </math>
+          </draw:object><draw:image>
+           <office:binary-data>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
+           </office:binary-data>
+          </draw:image>
+          <svg:desc>formula</svg:desc>
+         </draw:frame></text:span><text:span text:style-name="T6">, only downside deviation considered</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P33"><text:span text:style-name="T6">CALMAR Ratio </text:span><text:span text:style-name="T6"><draw:frame draw:style-name="fr1" draw:name="Object19" text:anchor-type="as-char" svg:y="-0.693cm" svg:width="5.009cm" svg:height="1.071cm" draw:z-index="18"><draw:object>
+           <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+            <semantics>
+             <mstyle mathcolor="#FFFAFA">
+              <mrow>
+               <mi mathvariant="italic">CALMAR</mi>
+               <mo stretchy="false">=</mo>
+               <mfrac>
+                <mrow>
+                 <mi mathvariant="italic">Avg</mi>
+                 <mrow>
+                  <mo fence="true" form="prefix" stretchy="false">(</mo>
+                  <mrow>
+                   <mrow>
+                    <msub>
+                     <mi>R</mi>
+                     <mi>a</mi>
+                    </msub>
+                    <mo stretchy="false">−</mo>
+                    <msub>
+                     <mi>R</mi>
+                     <mi>b</mi>
+                    </msub>
+                   </mrow>
+                  </mrow>
+                  <mo fence="true" form="postfix" stretchy="false">)</mo>
+                 </mrow>
+                </mrow>
+                <mrow>
+                 <mi mathvariant="italic">max</mi>
+                 <mi>.</mi>
+                 <mi mathvariant="italic">drawdown</mi>
+                </mrow>
+               </mfrac>
+              </mrow>
+             </mstyle>
+             <annotation encoding="StarMath 5.0">color snow {CALMAR= {Avg ( R_a - R_b )} over {max. drawdown}}</annotation>
+            </semantics>
+           </math>
+          </draw:object><draw:image>
+           <office:binary-data>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
+           </office:binary-data>
+          </draw:image>
+          <svg:desc>formula</svg:desc>
+         </draw:frame></text:span></text:p>
+       <text:h text:style-name="P13" text:outline-level="2"><text:span text:style-name="T11">Chapter </text:span><text:span text:style-name="T10">1</text:span><text:span text:style-name="T15">3</text:span><text:span text:style-name="T6">: </text:span><text:span text:style-name="T15">Risk and Money Management</text:span></text:h>
+       <text:list>
+        <text:list-header>
+         <text:h text:style-name="P21" text:outline-level="3"><text:span text:style-name="T21">1</text:span><text:span text:style-name="T25">3</text:span><text:span text:style-name="T21">.</text:span><text:span text:style-name="T24">2</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T25">Money Management</text:span></text:h>
+        </text:list-header>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P34"><text:span text:style-name="T14">K</text:span><text:span text:style-name="T6">elly Criterion </text:span><draw:frame draw:style-name="fr1" draw:name="Object20" text:anchor-type="as-char" svg:y="-0.437cm" svg:width="1.824cm" svg:height="0.591cm" draw:z-index="19"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
          <semantics>
           <mstyle mathcolor="#FFFAFA">
            <mrow>
             <msub>
-             <mi mathvariant="italic">DF</mi>
-             <mi>τ</mi>
+             <mi>f</mi>
+             <mi>i</mi>
             </msub>
             <mo stretchy="false">=</mo>
-            <mfrac>
-             <mover accent="true">
-              <mi>γ</mi>
-              <mo stretchy="false">^</mo>
-             </mover>
-             <mrow>
-              <mi mathvariant="italic">SE</mi>
-              <mrow>
-               <mo fence="true" form="prefix" stretchy="false">(</mo>
-               <mrow>
-                <mover accent="true">
-                 <mi>γ</mi>
-                 <mo stretchy="false">^</mo>
-                </mover>
-               </mrow>
-               <mo fence="true" form="postfix" stretchy="false">)</mo>
-              </mrow>
-             </mrow>
-            </mfrac>
+            <mrow>
+             <msub>
+              <mi>μ</mi>
+              <mi>i</mi>
+             </msub>
+             <mo stretchy="false">/</mo>
+             <msup>
+              <msub>
+               <mi>σ</mi>
+               <mi>i</mi>
+              </msub>
+              <mn>2</mn>
+             </msup>
+            </mrow>
            </mrow>
           </mstyle>
-          <annotation encoding="StarMath 5.0"> color snow {DF_%tau=hat %gamma over {SE(hat %gamma)}} </annotation>
+          <annotation encoding="StarMath 5.0">color snow {f_i=%mu_i/{%sigma_i}^2}</annotation>
          </semantics>
         </math>
        </draw:object><draw:image>
-        <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAcYJAAD7
-         AwAAYgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAMUJAAD6AwAAlQAB
+        <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAR8HAABP
+         AgAAUAAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAB4HAABOAgAAlQAB
          AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
-         AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAaAAAA
-         hAAAAGECAAACAERGMgIAAAAAAgACAEQARgCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQA
-         OgAAAAoAT3BlblN5bWJvbAAAAAAAAP0AAAD//wAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMA
-         AAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/
-         AHIAAgAaAAAA5QIAALACAAABAAAAxANvAAAAAAABAAEAxAOMAAEAAAAAAIsAAQACAAAAHwCK
+         AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAXAAAA
+         agAAAMIBAAABAGZ1AAAAAAABAAEAZgCMAAEAAAAAAIsAAQACAAAAHwCKAAEARgAAAAQAQAAA
+         ABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAP0AAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA
+         /wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA
+         +vr/AHIAAgAXAAAAIwEAABECAAABAGlGAAAAAAABAAEAaQCMAAEAAAAAAIsAAQACAAAAHwCK
          AAEAQAAAAAQAOgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAA
          AAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYA
-         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
+         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
-         AAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAE
-         AAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAaAAAAuAYAAD4BAAABAAAAXgCMAAAAAAABAAEAXgCM
-         AAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD/
-         /wAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
-         ////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAaAAAAnQYAAFgBAAABAAAAswPuAAAA
-         AAABAAEAswOMAAEAAAAAAIsAAQACAAAAHwCFAAEABQAAAPr6/wABhAABAAUAAAAAAAAAAIoA
-         AQBAAAAABAA6AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAA
-         AAAAAQD/AwAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAD6+v8AhgAB
-         AAQAAAD6+v8AZwABABAAAADBBAAA3AEAAEIJAADwAQAAjAABAAAAAACLAAEAAgAAAB8AigAB
-         AEYAAAAEAEAAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAgD/
-         AwAAAAAAAAABAP8DAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAPr6
-         /wCGAAEABAAAAPr6/wByAAIAGgAAAPYEAACEAwAAAgBTRdUBAAAAAAIAAgBTAEUAjAABAAAA
-         AACLAAEAAgAAAB8AigABAEAAAAAEADoAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAA
-         BQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCG
-         AAEABAAAAPr6/wCGAAEABAAAAPr6/wByAAIAGgAAAO0GAACEAwAAAQAAACgAjwAAAAAAAQAB
-         ACgAjAABAAAAAACLAAEAAgAAAB8AigABAEAAAAAEADoAAAAKAE9wZW5TeW1ib2wAAAAAAACm
-         AQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAAAAAAAAiAABAAIAAAABAIcAAQAF
-         AAAA/////wCGAAEABAAAAPr6/wCGAAEABAAAAPr6/wByAAIAGgAAANsHAABpAwAAAQAAAF4A
-         jAAAAAAAAQABAF4AjAABAAAAAACLAAEAAgAAAB8AigABAEAAAAAEADoAAAAKAE9wZW5TeW1i
-         b2wAAAAAAACmAQAA//8AAAAABQAAAAAAAgD/AwAAAAAAAAABAP8DAAAAAAAAAAAAiAABAAIA
-         AAABAIcAAQAFAAAA/////wCGAAEABAAAAPr6/wCGAAEABAAAAPr6/wByAAIAGgAAAKYHAACE
-         AwAAAQAAALMD7gAAAAAAAQABALMDjAABAAAAAACLAAEAAgAAAB8AigABAEAAAAAEADoAAAAK
-         AE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAAAA
-         AAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAPr6/wCGAAEABAAAAPr6/wByAAIA
-         GgAAAK8IAACEAwAAAQAAACkAjwAAAAAAAQABACkAjAABAAAAAACVAAEABAAAAAAAAACWAAEA
-         AgAAAAkAjAABAAAAAAA=
+         AAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAE
+         AAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAaAAAAygIAAMIBAAABAAAAvAPzAAAAAAABAAEAvAOM
+         AAEAAAAAAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAA
+         AP0AAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwAB
+         AAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAXAAAA0wMAABECAAABAGlG
+         AAAAAAABAAEAaQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJv
+         bAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAA
+         AAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAaAAAAPQQAAMIB
+         AAABAAAALwB1AAAAAAABAAEALwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoA
+         T3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAA
+         AACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAa
+         AAAA3AQAAMIBAAABAAAAwwP+AAAAAAABAAEAwwOMAAEAAAAAAIsAAQACAAAAHwCKAAEARgAA
+         AAQAQAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAP0AAAAAAAAAAAAFAAAAAAACAP8DAAAA
+         AAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA+vr/AIYA
+         AQAEAAAA+vr/AHIAAgAXAAAA5AUAABECAAABAGlGAAAAAAABAAEAaQCMAAEAAAAAAIsAAQAC
+         AAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAP0AAAAAAAAAAAAF
+         AAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
+         AQAEAAAA+vr/AIYAAQAEAAAA+vr/AHIAAgAXAAAANAYAAO4AAAABADJ/AAAAAAABAAEAMgCM
+         AAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
         </office:binary-data>
        </draw:image>
        <svg:desc>formula</svg:desc>
       </draw:frame></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list879848595" text:style-name="L2">
-    <text:list-item>
      <text:list>
-      <text:list-header>
-       <text:p text:style-name="P9"/>
-      </text:list-header>
+      <text:list-item>
+       <text:list>
+        <text:list-header>
+         <text:h text:style-name="P21" text:outline-level="3"><text:span text:style-name="T21">1</text:span><text:span text:style-name="T25">3</text:span><text:span text:style-name="T21">.</text:span><text:span text:style-name="T25">3</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T25">Risk Management</text:span></text:h>
+        </text:list-header>
+       </text:list>
+      </text:list-item>
      </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P34"><text:span text:style-name="T6">Value-at-Risk </text:span><draw:frame draw:style-name="fr1" draw:name="Object21" text:anchor-type="as-char" svg:y="-0.386cm" svg:width="3.588cm" svg:height="0.508cm" draw:z-index="20"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+         <semantics>
+          <mstyle mathcolor="#FFFAFA">
+           <mrow>
+            <mi>P</mi>
+            <mrow>
+             <mrow>
+              <mo fence="true" form="prefix" stretchy="false">(</mo>
+              <mrow>
+               <mrow>
+                <mi>L</mi>
+                <mo stretchy="false">≤</mo>
+                <mrow>
+                 <mo stretchy="false">−</mo>
+                 <mi mathvariant="italic">VaR</mi>
+                </mrow>
+               </mrow>
+              </mrow>
+              <mo fence="true" form="postfix" stretchy="false">)</mo>
+             </mrow>
+             <mo stretchy="false">=</mo>
+             <mrow>
+              <mn>1</mn>
+              <mo stretchy="false">−</mo>
+              <mi>e</mi>
+             </mrow>
+            </mrow>
+           </mrow>
+          </mstyle>
+          <annotation encoding="StarMath 5.0">color snow {P( L &lt;= -VaR ) = 1 - e}</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>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
+         AAEAAAAAAA==
+        </office:binary-data>
+       </draw:image>
+       <svg:desc>formula</svg:desc>
+      </draw:frame>, <draw:frame draw:style-name="fr1" draw:name="Object22" text:anchor-type="as-char" svg:y="-0.386cm" svg:width="5.877cm" svg:height="0.508cm" draw:z-index="21"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+         <semantics>
+          <mstyle mathcolor="#FFFAFA">
+           <mrow>
+            <mi mathvariant="italic">Var</mi>
+            <mo stretchy="false">=</mo>
+            <mrow>
+             <mi>P</mi>
+             <mo stretchy="false">−</mo>
+             <mrow>
+              <mi>P</mi>
+              <mo stretchy="false">∗</mo>
+              <mrow>
+               <mo fence="true" form="prefix" stretchy="false">(</mo>
+               <mrow>
+                <mrow>
+                 <mi mathvariant="italic">ppf</mi>
+                 <mrow>
+                  <mrow>
+                   <mo fence="true" form="prefix" stretchy="false">(</mo>
+                   <mrow>
+                    <mrow>
+                     <mrow>
+                      <mn>1</mn>
+                      <mo stretchy="false">−</mo>
+                      <mi>c</mi>
+                     </mrow>
+                     <mi>,</mi>
+                     <mi>μ</mi>
+                     <mi>,</mi>
+                     <mi>σ</mi>
+                    </mrow>
+                   </mrow>
+                   <mo fence="true" form="postfix" stretchy="false">)</mo>
+                  </mrow>
+                  <mo stretchy="false">+</mo>
+                  <mn>1</mn>
+                 </mrow>
+                </mrow>
+               </mrow>
+               <mo fence="true" form="postfix" stretchy="false">)</mo>
+              </mrow>
+             </mrow>
+            </mrow>
+           </mrow>
+          </mstyle>
+          <annotation encoding="StarMath 5.0">color snow {Var = P - P *(ppf(1-c, %mu, %sigma)+1)}</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>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
+        </office:binary-data>
+       </draw:image>
+       <svg:desc>formula</svg:desc>
+      </draw:frame></text:p>
     </text:list-item>
    </text:list>
   </office:text>
