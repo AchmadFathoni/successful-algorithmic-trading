@@ -3,19 +3,16 @@
 
 # forecast.py
 
-from __future__ import print_function
-
 import datetime
 import numpy as np
 import pandas as pd
-import sklearn
 
-from pandas.io.data import DataReader
+from pandas_datareader import DataReader
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
-from sklearn.lda import LDA
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 from sklearn.metrics import confusion_matrix
-from sklearn.qda import QDA
 from sklearn.svm import LinearSVC, SVC
 
 
@@ -54,7 +51,7 @@ def create_lagged_series(symbol, start_date, end_date, lags=5):
     # a small number (stops issues with QDA model in scikit-learn)
     for i,x in enumerate(tsret["Today"]):
         if (abs(x) < 0.0001):
-            tsret["Today"][i] = 0.0001
+            tsret.loc[tsret.index[i],"Today"] = 0.0001
 
     # Create the lagged percentage returns columns
     for i in range(0, lags):
@@ -92,8 +89,8 @@ if __name__ == "__main__":
     # Create the (parametrised) models
     print("Hit Rates/Confusion Matrices:\n")
     models = [("LR", LogisticRegression()), 
-              ("LDA", LDA()), 
-              ("QDA", QDA()),
+              ("LDA", LinearDiscriminantAnalysis()), 
+              ("QDA", QuadraticDiscriminantAnalysis()),
               ("LSVC", LinearSVC()),
               ("RSVM", SVC(
               	C=1000000.0, cache_size=200, class_weight=None,
