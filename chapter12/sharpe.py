@@ -8,7 +8,7 @@ from __future__ import print_function
 import datetime
 import numpy as np
 import pandas as pd
-import pandas.io.data as web
+import pandas_datareader.data as web
 
 
 def annualised_sharpe(returns, N=252):
@@ -35,7 +35,7 @@ def equity_sharpe(ticker):
 
     # Obtain the equities daily historic data for the desired time period
     # and add to a pandas DataFrame
-    pdf = web.DataReader(ticker, 'google', start, end)
+    pdf = web.DataReader(ticker, 'yahoo', start, end)
 
     # Use the percentage change method to easily calculate daily returns
     pdf['daily_ret'] = pdf['Close'].pct_change()
@@ -58,8 +58,8 @@ def market_neutral_sharpe(ticker, benchmark):
 
     # Get historic data for both a symbol/ticker and a benchmark ticker
     # The dates have been hardcoded, but you can modify them as you see fit!
-    tick = web.DataReader(ticker, 'google', start, end)
-    bench = web.DataReader(benchmark, 'google', start, end)
+    tick = web.DataReader(ticker, 'yahoo', start, end)
+    bench = web.DataReader(benchmark, 'yahoo', start, end)
 
     # Calculate the percentage returns on each of the time series
     tick['daily_ret'] = tick['Close'].pct_change()
@@ -70,6 +70,7 @@ def market_neutral_sharpe(ticker, benchmark):
     # the trading capital for this strategy
     strat = pd.DataFrame(index=tick.index)
     strat['net_ret'] = (tick['daily_ret'] - bench['daily_ret'])/2.0
+    print(strat['net_ret'])
 
     # Return the annualised Sharpe ratio for this strategy
     return annualised_sharpe(strat['net_ret'])
@@ -77,10 +78,10 @@ def market_neutral_sharpe(ticker, benchmark):
 
 if __name__ == "__main__":
     print(
-        "Google Sharpe Ratio: %s" % 
+        "Google Sharpe Ratio: %s" %
         equity_sharpe('GOOG')
     )
     print(
-        "Google Market Neutral Sharpe Ratio: %s" % 
+        "Google Market Neutral Sharpe Ratio: %s" %
         market_neutral_sharpe('GOOG', 'SPY')
     )

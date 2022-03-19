@@ -8,7 +8,7 @@ from __future__ import print_function
 import datetime
 
 import numpy as np
-import pandas.io.data as web
+import pandas_datareader.data as web
 from scipy.stats import norm
 
 
